@@ -1,12 +1,12 @@
 .navbar{
-  background-color: #332D2D;
-  max-width: 50%;
-  margin: auto;
+  background-color: #212529;
+  padding: 0.5em;
+  height: 50px;
 }
 
 .navbar ul{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .navbar ul li{
@@ -16,6 +16,7 @@
 .navbar ul li a{
   text-decoration: none;
   color: white;
+  text-transform: uppercase;
 }
 
 .navbar ul li a:hover{
@@ -25,4 +26,11 @@
 
 footer{
   text-align: center;
+  position: relative; 
+  bottom: 0; 
+  background-color: #212529; 
+  color: white;
+  height: 50px;
+  padding: 0.5em;
+  margin-bottom: 0;;
 }
