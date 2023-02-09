@@ -4,7 +4,6 @@ const Contato = () => {
   return(
     <div className="contato">
      <h1>Contato</h1>
-     <fieldset>
      <h3>Email pessoal: erickdasilvaamorim@gmail.com</h3>
      <h3>Email institucional: erick.amorim@estudante.edu.br</h3>
      <h3>Telefone: +55 67 9 93329022</h3>

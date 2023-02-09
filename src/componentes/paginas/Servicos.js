@@ -1,3 +1,5 @@
+import './estilos.css'
+
 const Servicos = () => {
   return(
     <div>

@@ -1,0 +1,28 @@
+.navbar{
+  background-color: #332D2D;
+  max-width: 50%;
+  margin: auto;
+}
+
+.navbar ul{
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar ul li{
+  list-style: none;
+}
+
+.navbar ul li a{
+  text-decoration: none;
+  color: white;
+}
+
+.navbar ul li a:hover{
+  list-style: none;
+  color:blue;
+}
+
+footer{
+  text-align: center;
+}

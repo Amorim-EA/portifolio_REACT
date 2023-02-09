@@ -1,0 +1,21 @@
+.home{
+  display: flex;
+  margin: auto;
+ 
+}
+
+.home-2 img{
+  border: radius 20px;
+}
+
+.conhecimentos{
+  
+}
+
+.home h1, .conhecimentos h1, .servicos h1, .contato h1{
+  text-align: center;
+}
+
+.conhecimentos h3{
+  
+}
